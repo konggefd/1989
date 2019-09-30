@@ -1,22 +1,16 @@
-# 1989
-new code ss
+
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 #=================================================================#
 #   System Required:  CentOS 6+, Debian 7+, Ubuntu 12+            #
 #   Description: One click Install Shadowsocks-Python server      #
-#   Author: Teddysun <i@teddysun.com>                             #
-#   Thanks: @clowwindy <https://twitter.com/clowwindy>            #
-#   Intro:  https://teddysun.com/342.html                         #
 #=================================================================#
 
 clear
 echo
 echo "#############################################################"
 echo "# One click Install Shadowsocks-Python server               #"
-echo "# Intro: https://teddysun.com/342.html                      #"
-echo "# Author: Teddysun <i@teddysun.com>                         #"
 echo "# Github: https://github.com/shadowsocks/shadowsocks        #"
 echo "#############################################################"
 echo
