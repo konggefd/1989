@@ -5,7 +5,6 @@ export PATH
 #   System Required:  CentOS 6+, Debian 7+, Ubuntu 12+            #
 #   Description: One click Install Shadowsocks-Python server      #
 #=================================================================#
-
 clear
 echo
 echo "#############################################################"
